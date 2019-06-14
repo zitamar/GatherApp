@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GatherApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="view">view</string>
+    <string name="events_near_me">Events near me</string>
+    <string name="button">Button</string>
+</resources>
